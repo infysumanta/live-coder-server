@@ -1,0 +1,12 @@
+node_modules
+build
+dist
+coverage
+.prettierrc.js
+.github
+jest.config.js
+.vscode
+pnpm-lock.yaml
+*.json
+README.md
+*.html

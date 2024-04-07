@@ -1,0 +1,10 @@
+jest.config.js
+coverage 
+build
+dist
+*.css
+*.svg
+*.spec.ts
+*.test.ts
+jest.config.js
+drizzle.config.ts
