@@ -3,9 +3,6 @@ version: '3'
 services:
   server:
     container_name: lice-coder-server
-    build:
-      context: .
-      dockerfile: ./Dockerfile
-    restart: always
+    image: sumantablog/live-coder-server-build
     ports:
       - '3580:8080'
