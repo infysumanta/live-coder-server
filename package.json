@@ -16,6 +16,7 @@
   "repository": "git@github.com:infysumanta/live-coder-server.git",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "socket.io": "^4.7.5",
     "ts-node": "^10.9.2",
