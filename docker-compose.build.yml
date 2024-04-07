@@ -5,4 +5,4 @@ services:
     container_name: lice-coder-server
     image: sumantablog/live-coder-server-build
     ports:
-      - '3580:8080'
+      - '7580:8080'

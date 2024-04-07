@@ -8,4 +8,4 @@ services:
       dockerfile: ./Dockerfile
     restart: always
     ports:
-      - '3580:8080'
+      - 7580:8080'
